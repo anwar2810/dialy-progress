@@ -1,0 +1,21 @@
+daily-progress/
+│
+├── progress/            # 進度記錄文件夾
+│   ├── 2024-10-02.md    
+│   └── ...              
+│
+├── scripts/             # 存放各種語言的腳本和程式
+│   ├── python/          # Python 腳本
+│   ├── bash/            # Bash 腳本
+│   ├── javascript/      # JavaScript 程式
+│   ├── scss/            # SCSS 文件
+│   │   └── styles.scss
+│   └── arduino/         # Arduino 程式
+│       └── blink.ino
+│
+├── notes/               # 學習筆記文件夾
+│   ├── python-notes.md  
+│   ├── javascript-notes.md  
+│   └── bash-notes.md    
+│
+└── README.md            # 專案的總體介紹或說明文件
