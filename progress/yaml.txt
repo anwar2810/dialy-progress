@@ -1,0 +1,7 @@
+5. YAML 文件的命名建議
+根據用途進行命名：
+
+config.yaml：存放應用程式的配置。
+settings.yaml：存放全局的設定。
+database.yaml：存放數據庫相關的設定。
+workflow.yaml：存放 GitHub Actions 或其他 CI/CD 工作流的定義。
